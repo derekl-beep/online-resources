@@ -26,6 +26,12 @@ This repository stores the online resources I found useful for the studies of co
 
   https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn
   
+- Introduction to Computational Thinking and Data Science
+
+  Massachusetts Institute of Technology.
+
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+  
 
 # Data Structures
 

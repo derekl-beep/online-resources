@@ -17,6 +17,15 @@ This repository stores the online resources I found useful for the studies of co
 
   https://www.coursera.org/specializations/deep-learning
   
+## Lectures
+
+- Intro to Data Science 
+
+  Prof. Steven L. Brunton.
+  University of Washington.
+
+  https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn
+  
 
 # Data Structures
 
@@ -24,6 +33,7 @@ This repository stores the online resources I found useful for the studies of co
 
 - Accelerated Computer Science Fundamentals Specialization on Coursera
 
-  UIUC
+  Prof. Wade Fagen-Ulmschneider.
+  University of Illinois at Urbana-Champaign.
   
   https://www.coursera.org/specializations/cs-fundamentals
